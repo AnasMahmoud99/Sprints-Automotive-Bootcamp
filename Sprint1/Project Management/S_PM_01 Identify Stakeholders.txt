@@ -1,0 +1,9 @@
+Stakeholders:
+-Customers who will benefit from promo codes(User)
+-Software team 
+-Marketing team
+-Project Management team (PM team)
+-Sponsers
+-Companies which will offer promo codes (Promo code companies)
+-Companies that make ads on the application (Ads companies)
+-Google maps

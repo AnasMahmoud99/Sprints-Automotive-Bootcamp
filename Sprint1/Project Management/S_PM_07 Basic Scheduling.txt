@@ -1,0 +1,11 @@
+Bathes:
+ABDGH  19unit
+ACEGH  13unit
+ACFH   10unit
+
+#Delivery date after 19unit
+
+#
+-task c can be delayed up to 6units
+-task E can be delayed up to 6units
+-task f can be delayed up to 9units
