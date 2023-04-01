@@ -8,6 +8,6 @@ typedef signed char int8_t;
 #include <stdio.h>
 #include <stdlib.h>
 #include "Stack.h"
-#include "balanced.h"
+#include "Balanced.h"
 
 #endif
