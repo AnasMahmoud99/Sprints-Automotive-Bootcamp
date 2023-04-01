@@ -1,5 +1,5 @@
-#ifndef LCS_H
-#define LCS_H
+#ifndef LCS_H_
+#define LCS_H_
 
 int8_t lcsGetSize(int32_t *array, uint8_t arraySize, uint8_t *sizeofLCS);
 
