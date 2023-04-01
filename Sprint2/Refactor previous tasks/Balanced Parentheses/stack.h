@@ -1,5 +1,5 @@
-#ifndef STACK_H
-#define STACK_H
+#ifndef STACK_H_ 
+#define STACK_H_
 
 typedef struct stack {
 uint8_t elements[STACK_SIZE];
