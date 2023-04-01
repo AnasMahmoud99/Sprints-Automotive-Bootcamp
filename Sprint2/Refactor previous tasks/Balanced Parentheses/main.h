@@ -7,6 +7,7 @@ typedef signed char int8_t;
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include "Stack.h"
 #include "Balanced.h"
 
