@@ -117,7 +117,7 @@ uint8_t I2C_data_event(uint8_t *data, uint8_t rw, uint8_t ack){
 		{
 			TWCR = (1<<TWINT)|(1<<TWEN)|(1<<TWEA);    // Enable TWI with generation of ack
 		}
-		else if(ack=NACK)
+		else if(ack == NACK)
 		{
 			TWCR = (1<<TWINT)|(1<<TWEN);
 		}
