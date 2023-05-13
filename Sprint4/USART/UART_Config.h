@@ -74,14 +74,12 @@ typedef enum
 
 typedef struct
 {
-	USART_State					State;
+	USART_State		      State;
 	USART_Mode                    Communcation_Mode;
-	//USART_Communication_Processor Communication_Processor;
-	//USART_Interrupt_Source        Interrupt_Source;
 	USART_Character_Size          Character_Size;
 	USART_Frame_Control           Frame_Control;
 	USART_Clock_Parity            Clock_Parity;
-	USART_Baud_Rate				    Baud_Rate;
+	USART_Baud_Rate		      Baud_Rate;
 	USART_ErrorsType              Error_Type;
 }USART_Config_t;
 
