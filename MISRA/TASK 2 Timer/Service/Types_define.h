@@ -13,18 +13,4 @@ typedef unsigned int  uint32 ;
 typedef float		  float32_t; 
 
 
-typedef enum err_state
-{
-	SUCCESS,FAIL
-}err_state;
-typedef enum pin_dir
-{
-	INPUT,OUTPUT
-}pin_dir;
-
-typedef enum pin_state
-{
-	LOW,HIGH
-}pin_state;
-
 #endif /* TYPES_DEFINE_H_ */
